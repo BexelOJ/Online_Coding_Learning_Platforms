@@ -2,9 +2,13 @@
 URLs to learn coding Online:
 
 https://profile.w3schools.com/
+
 https://www.tutorialspoint.com/
+
 https://www.geeksforgeeks.org/
+
 https://www.javatpoint.com/
+
 https://www.udemy.com/
 
 https://www.khanacademy.org/
