@@ -1,4 +1,4 @@
-# Online_Coding_Learning_Platforms
+# Online Platform to learn different Technologies in IT Industry.
 URLs to learn coding Online:
 
 https://profile.w3schools.com/
