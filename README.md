@@ -1,5 +1,5 @@
 # Online Platform to learn different Technologies in IT Industry.
-URLs to learn coding Online:
+URLs to learn different Technologies Online:
 
 https://profile.w3schools.com/
 
