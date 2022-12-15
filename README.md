@@ -1,95 +1,95 @@
 # Online Platform to learn different Technologies in IT Industry.
 URLs to learn different Technologies Online:
 
-https://profile.w3schools.com/
+1.) https://profile.w3schools.com/
 
-https://www.tutorialspoint.com/
+2.) https://www.tutorialspoint.com/
 
-https://www.geeksforgeeks.org/
+3.) https://www.geeksforgeeks.org/
 
-https://www.javatpoint.com/
+4.) https://www.javatpoint.com/
 
-https://www.linkedin.com/learning/
+5.) https://www.linkedin.com/learning/
 
-https://www.udemy.com/
+6.) https://www.udemy.com/
 
-https://www.khanacademy.org/
+7.) https://www.khanacademy.org/
 
-https://dev.tube/
+8.) https://dev.tube/
 
-https://www.sololearn.com/
+9.) https://www.sololearn.com/
 
-https://www.udacity.com/
+10.) https://www.udacity.com/
 
-https://www.edureka.co/
+11.) https://www.edureka.co/
 
-https://authn.edx.org/
+12.) https://authn.edx.org/
 
-https://www.codecademy.com/
+13.) https://www.codecademy.com/
 
-https://gdsc.community.dev/
+14.) https://gdsc.community.dev/
 
-https://app.e-box.co.in/
+15.) https://app.e-box.co.in/
 
-https://amigoscode.com/
+16.) https://amigoscode.com/
 
-https://www.freecodecamp.org/
+17.) https://www.freecodecamp.org/
 
-https://zerotomastery.io/
+18.) https://zerotomastery.io/
 
-https://www.learn-c.org/
+19.) https://www.learn-c.org/
 
-https://teamtreehouse.com/
+20.) https://teamtreehouse.com/
 
-https://embetronicx.com/    # Embedded Systems
+21.) https://embetronicx.com/    # Embedded Systems
 
-https://sso.teachable.com/
+22.) https://sso.teachable.com/
 
-https://www.educba.com/
+23.) https://www.educba.com/
 
-https://www.elastic.co/
+24.) https://www.elastic.co/
 
-https://www.techgig.com/
+25.) https://www.techgig.com/
 
-https://id.cisco.com/
+26.) https://id.cisco.com/
 
-https://www.guru99.com/
+27.) https://www.guru99.com/
 
-https://techdifferences.com/
+28.) https://techdifferences.com/
 
-https://ocw.mit.edu/
+29.) https://ocw.mit.edu/
 
-https://www.programiz.com/
+30.) https://www.programiz.com/
 
-https://www.algoexpert.io/
+31.) https://www.algoexpert.io/
 
-https://welcome.fullstackacademy.com/
+32.) https://welcome.fullstackacademy.com/
 
-http://blog.agupieware.com/
+33.) http://blog.agupieware.com/
 
-https://programminghub.io/
+34.) https://programminghub.io/
 
-https://www.classcentral.com/
+35.) https://www.classcentral.com/
 
-https://www.educative.io/
+36.) https://www.educative.io/
 
-https://www.freecodecamp.org/
+37.) https://www.freecodecamp.org/
 
-https://www.gitmemory.com/
+38.) https://www.gitmemory.com/
 
-https://web.dev/
+39.) https://web.dev/
 
-https://scientificprogramming.io/
+40.) https://scientificprogramming.io/
 
-https://kodekloud.com/
+41.) https://kodekloud.com/
 
-https://www.codekarle.com/
+42.) https://www.codekarle.com/
 
-https://quizlet.com/l
+43.) https://quizlet.com/l
 
-http://www.differencebetween.net/
+44.) http://www.differencebetween.net/
 
-https://www.techtarget.com/
+45.) https://www.techtarget.com/
 
 
 
