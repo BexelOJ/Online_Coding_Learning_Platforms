@@ -25,71 +25,72 @@ URLs to learn different Technologies Online:
 
 12.) https://authn.edx.org/
 
-13.) https://www.codecademy.com/
+13.) https://in.coursera.org/
 
-14.) https://gdsc.community.dev/
+14.) https://www.codecademy.com/
 
-15.) https://app.e-box.co.in/
+15.) https://gdsc.community.dev/
 
-16.) https://amigoscode.com/
+16.) https://app.e-box.co.in/
 
-17.) https://www.freecodecamp.org/
+17.) https://amigoscode.com/
 
-18.) https://zerotomastery.io/
+18.) https://www.freecodecamp.org/
 
-19.) https://www.learn-c.org/
+19.) https://zerotomastery.io/
 
-20.) https://teamtreehouse.com/
+20.) https://www.learn-c.org/
 
-21.) https://embetronicx.com/    # Embedded Systems
+21.) https://teamtreehouse.com/
 
-22.) https://sso.teachable.com/
+22.) https://embetronicx.com/    # Embedded Systems
 
-23.) https://www.educba.com/
+23.) https://sso.teachable.com/
 
-24.) https://www.elastic.co/
+24.) https://www.educba.com/
 
-25.) https://www.techgig.com/
+25.) https://www.elastic.co/
 
-26.) https://id.cisco.com/
+26.) https://www.techgig.com/
 
-27.) https://www.guru99.com/
+27.) https://id.cisco.com/
 
-28.) https://techdifferences.com/
+28.) https://www.guru99.com/
 
-29.) https://ocw.mit.edu/
+29.) https://techdifferences.com/
 
-30.) https://www.programiz.com/
+30.) https://ocw.mit.edu/
 
-31.) https://www.algoexpert.io/
+31.) https://www.programiz.com/
 
-32.) https://welcome.fullstackacademy.com/
+32.) https://www.algoexpert.io/
 
-33.) http://blog.agupieware.com/
+33.) https://welcome.fullstackacademy.com/
 
-34.) https://programminghub.io/
+34.) http://blog.agupieware.com/
 
-35.) https://www.classcentral.com/
+35.) https://programminghub.io/
 
-36.) https://www.educative.io/
+36.) https://www.classcentral.com/
 
-37.) https://www.freecodecamp.org/
+37.) https://www.educative.io/
 
-38.) https://www.gitmemory.com/
+38.) https://www.freecodecamp.org/
 
-39.) https://web.dev/
+39.) https://www.gitmemory.com/
 
-40.) https://scientificprogramming.io/
+40.) https://web.dev/
 
-41.) https://kodekloud.com/
+41.) https://scientificprogramming.io/
 
-42.) https://www.codekarle.com/
+42.) https://kodekloud.com/
 
-43.) https://quizlet.com/l
+43.) https://www.codekarle.com/
 
-44.) http://www.differencebetween.net/
+44.) https://quizlet.com/l
 
-45.) https://www.techtarget.com/
+45.) http://www.differencebetween.net/
 
+46.) https://www.techtarget.com/
 
 
