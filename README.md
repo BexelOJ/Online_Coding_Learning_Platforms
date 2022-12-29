@@ -34,20 +34,6 @@
 
 16.) https://app.e-box.co.in/
 
-MCQ
-
-1.) https://www.examveda.com/
-
-2.) https://www.cppbuzz.com/
-
-3.) https://www.sanfoundry.com/
-
-4.) https://www.indiabix.com/
-
-5.) https://www.avatto.com/
-
-
-
 17.) https://amigoscode.com/
 
 18.) https://www.freecodecamp.org/
@@ -107,5 +93,18 @@ MCQ
 45.) http://www.differencebetween.net/
 
 46.) https://www.techtarget.com/
+
+
+MCQ
+
+1.) https://www.examveda.com/
+
+2.) https://www.cppbuzz.com/
+
+3.) https://www.sanfoundry.com/
+
+4.) https://www.indiabix.com/
+
+5.) https://www.avatto.com/
 
 
